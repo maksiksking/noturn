@@ -1,0 +1,1 @@
+A very small part of a project made for a hackathon, we didn't have time to actually finish any kinda front-end so it's mostly just a figma layout, but I made this little bit too. It was supposed to be made with Nuxt, Vue, Vite, MongoDB and maybe even Tauri
